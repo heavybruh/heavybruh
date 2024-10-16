@@ -1,7 +1,9 @@
-## Hi there 👋
+# Heavy Bruh
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+## About me‼️
+- 15 years old
+- Programmer, Musician, Artist, and more
+- Gendafluid
+
+## Current languages I know / Starting to learn‼️
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,c,cs,cpp,py,)](https://skillicons.dev)
