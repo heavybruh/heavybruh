@@ -1,5 +1,3 @@
-# Heavy Bruh
-
 ## About me‼️
 - 15 years old.
 - Programmer, Musician, Artist, and more.
