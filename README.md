@@ -12,7 +12,7 @@
 
 ## Projects‼️
 ### Channel Zero
-- A Friday Night Funkin' Mod Directed by [Heavy Bruh]([https://x.com/graphicthereal](https://x.com/HeaviestBruh)) (Me :3) based off the Creepypasta Channel Zero.
+- A Friday Night Funkin' Mod Directed by [Heavy Bruh]([https://x.com/HeaviestBruh]) (Me :3) based off the Creepypasta Channel Zero.
 - Currently still in Development.
   
 ### [Clover's Convict: DEMO (v0.5.0)](https://gamejolt.com/games/clovers_convict/926105)
