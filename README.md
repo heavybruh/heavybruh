@@ -19,7 +19,7 @@
 - A Friday Night Funkin' Mod Directed by [Wellwoven](https://x.com/selloutstreame1) about Convict; the main antagonist of [Pico vs. Convict](https://pico.wiki.gg/wiki/Pico_vs._Convict).
 
 ### [FNF: Gruntvict Red Eyes](https://gamebanana.com/mods/535370)
-- A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series Madness Combat. Sadly the project was cancelled before a full release.
+- A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series [Madness Combat](https://www.newgrounds.com/portal/view/58182). Sadly the project was cancelled before a full release.
 
 ### [FNF': Vs DIA](https://gamebanana.com/mods/440407)
 - A Friday Night Funkin' Mod Directed by [FJ](https://x.com/graphicthereal) based on a short horror Indie game called [DIA](https://vidas-salavejus.itch.io/dia).
