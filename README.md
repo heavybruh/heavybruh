@@ -2,11 +2,6 @@
 - 15 years old.
 - Programmer, Musician, Artist, and more.
 - Gendafluid.
-  
-## Socials‼️
-- Twitter: [@HeaviestBruh](https://x.com/HeaviestBruh)
-- Youtube: [@HeavyBruh](https://www.youtube.com/@HeavyBruh)
-- Discord: heavybruh
 
 ## Projects‼️
 ### Channel Zero
@@ -24,3 +19,8 @@
 
 ## Current languages I know / Starting to learn‼️
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,c,cs,cpp,py,godot,gamemakerstudio)](https://skillicons.dev)
+
+## Socials‼️
+- Twitter: [@HeaviestBruh](https://x.com/HeaviestBruh)
+- Youtube: [@HeavyBruh](https://www.youtube.com/@HeavyBruh)
+- Discord: heavybruh
