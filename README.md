@@ -4,10 +4,6 @@
 - Gendafluid.
 
 ## Projects‼️
-### Channel Zero
-- A Friday Night Funkin' Mod Directed by [Heavy Bruh](https://x.com/HeaviestBruh) (Me :3) based off the Creepypasta Channel Zero.
-- Currently still in Development.
-  
 ### [Clover's Convict](https://gamejolt.com/games/clovers_convict/926105)
 - A Friday Night Funkin' Mod Directed by [Wellwoven](https://x.com/selloutstreame1) about Convict; the main antagonist of [Pico vs. Convict](https://pico.wiki.gg/wiki/Pico_vs._Convict).
 
