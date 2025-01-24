@@ -1,5 +1,5 @@
 ## About me‼️
-- 15 years old.
+- 16 years old.
 - Programmer, Musician, Artist, and more.
 - Gendafluid.
 
