@@ -1,7 +1,6 @@
 ## About me
 - 16 years old.
 - Programmer, Musician, Artist, and more.
-- Gendafluid.
 
 ## Projects
 ### [Clover's Convict](https://gamejolt.com/games/clovers_convict/926105)
