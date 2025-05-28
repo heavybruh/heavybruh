@@ -3,7 +3,7 @@
 - Programmer, Musician, Artist, and more.
 
 ## Projects
-### [Clover's Convict]([https://gamejolt.com/games/clovers_convict/926105](https://gamebanana.com/mods/564228)
+### [Clover's Convict]([https://gamejolt.com/games/clovers_convict/926105](https://gamebanana.com/mods/564228))
 - A Friday Night Funkin' Mod Directed by [Wellwoven](https://x.com/selloutstreame1) about Convict; the main antagonist of [Pico vs. Convict](https://pico.wiki.gg/wiki/Pico_vs._Convict).
 
 ### [FNF: Gruntvict Red Eyes](https://gamebanana.com/mods/535370)
