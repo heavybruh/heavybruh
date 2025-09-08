@@ -18,4 +18,3 @@
 ## Socials
 - Twitter: [@HeaviestBruh](https://x.com/HeaviestBruh)
 - Youtube: [@HeavyBruh](https://www.youtube.com/@HeavyBruh)
-- Discord: heavybruh
