@@ -13,7 +13,7 @@
 - A Friday Night Funkin' Mod Directed by [FJ](https://x.com/graphicthereal) based on a short horror Indie game called [DIA](https://vidas-salavejus.itch.io/dia).
 
 ## Current languages I'm learning
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,java,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,java,godot,c++)](https://skillicons.dev)
 
 ## Socials
 - Twitter: [@HeaviestBruh](https://x.com/HeaviestBruh)
