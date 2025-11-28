@@ -8,13 +8,6 @@
 
 ### [FNF: Gruntvict Red Eyes](https://gamebanana.com/mods/535370)
 - A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series [Madness Combat](https://www.newgrounds.com/portal/view/58182). Sadly the project was cancelled before a full release.
-
-### [FNF': Vs DIA](https://gamebanana.com/mods/440407)
-- A Friday Night Funkin' Mod Directed by [FJ](https://x.com/graphicthereal) based on a short horror Indie game called [DIA](https://vidas-salavejus.itch.io/dia).
-
+  
 ## Current languages I'm learning
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,java,godot,cpp)](https://skillicons.dev)
-
-## Socials
-- Twitter: [@HeaviestBruh](https://x.com/HeaviestBruh)
-- Youtube: [@HeavyBruh](https://www.youtube.com/@HeavyBruh)
