@@ -10,4 +10,4 @@
 - A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series [Madness Combat](https://www.newgrounds.com/portal/view/58182). Sadly the project was cancelled before a full release.
   
 ## Current languages I'm learning
-[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,java,godot,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,cpp)](https://skillicons.dev)
