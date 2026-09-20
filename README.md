@@ -9,7 +9,7 @@ A Friday Night Funkin' Mod Directed by [Wellwoven](https://x.com/selloutstreame1
 
 [![gvHeader](assets/imgs/headers/gv.png)](https://gamebanana.com/mods/535370)
 
-A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series [Madness Combat](https://www.newgrounds.com/portal/view/58182). Sadly the project was cancelled before a full release. Its source code can be found [here.]([https://github.com/GuitarML/PedalNetRT](https://github.com/heavybruh/GRUNTVICT))
+A Friday Night Funkin' Mod Directed by [Graphic](https://x.com/graphicthereal) about Convict but in the style of the Newgrounds series [Madness Combat](https://www.newgrounds.com/portal/view/58182). Sadly the project was cancelled before a full release. Its source code can be found [here.](https://github.com/heavybruh/GRUNTVICT)
   
 ## Current languages I'm learning
 [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel,godot,cpp)](https://skillicons.dev)
