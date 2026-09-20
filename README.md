@@ -1,4 +1,4 @@
-## About me
+# About me!
 - 17 years old.
 - Programmer, Musician, and Artist
 
