@@ -1,0 +1,14 @@
+name: Update now-playing card
+on:
+  workflow_dispatch:   # trigger it manually from the Actions tab
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required — the action commits its own output
+    steps:
+      - uses: actions/checkout@v4
+      - uses: rakshithp7/ytmusic-display-widget@v1
+        with:
+          tracks: |
+            https://music.youtube.com/watch?v=olOHR1MBzxE&si=aewAgm7VYkbReFKN
