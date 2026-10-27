@@ -16,13 +16,28 @@ jobs:
       - uses: rakshithp7/ytmusic-display-widget@v1
         with:
           tracks: |
+            # Flowers (Analog Version 2026 Mix)
             https://music.youtube.com/watch?v=olOHR1MBzxE&si=aewAgm7VYkbReFKN
+
+            # Abscission 
             https://music.youtube.com/watch?v=qAn3PpolPj0&si=qMZGQKFaj-0HrcqL
+
+            # Duvet 
             https://music.youtube.com/watch?v=o7fgFaXKVa0&si=6mHNkWNHou7FygP-
+
+            # Другой (Так надоело)
             https://music.youtube.com/watch?v=eIRhsvmbtP8&si=LLFalj4GV58bjxE-
+
+            # 宙吊り少女 (Chuuzuri Shoujo)
             https://music.youtube.com/watch?v=3_skTVArPIY&si=qxZ16cqGjBpue-3x
+
+            # Absorbing Black Ignition
             https://music.youtube.com/watch?v=1SEB40K3CxU&si=NppQxv2sznDg93ma
+
+            # A Lofty Grave 
             https://music.youtube.com/watch?v=wyD8KGyINAY&si=cr-u5UTs0NVVfetQ
+
+            # Romeo's Distress
             https://music.youtube.com/watch?v=y5ooHJtMsGY&si=M1cYvQxoFbJ4MGGv
           mode: random
           wave-color: "#ffffff"
