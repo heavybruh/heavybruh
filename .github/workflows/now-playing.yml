@@ -1,6 +1,10 @@
+# https://github.com/marketplace/actions/ytmusicdisplaywidget
+
 name: Update now-playing card
 on:
   workflow_dispatch:   # trigger it manually from the Actions tab
+    - cron: '0 */6 * * *'   # every 6 hours — adjust to taste
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -12,3 +16,13 @@ jobs:
         with:
           tracks: |
             https://music.youtube.com/watch?v=olOHR1MBzxE&si=aewAgm7VYkbReFKN
+            https://music.youtube.com/watch?v=qAn3PpolPj0&si=qMZGQKFaj-0HrcqL
+            https://music.youtube.com/watch?v=o7fgFaXKVa0&si=6mHNkWNHou7FygP-
+            https://music.youtube.com/watch?v=eIRhsvmbtP8&si=LLFalj4GV58bjxE-
+            https://music.youtube.com/watch?v=3_skTVArPIY&si=qxZ16cqGjBpue-3x
+            https://music.youtube.com/watch?v=1SEB40K3CxU&si=NppQxv2sznDg93ma
+            https://music.youtube.com/watch?v=wyD8KGyINAY&si=cr-u5UTs0NVVfetQ
+            https://music.youtube.com/watch?v=y5ooHJtMsGY&si=M1cYvQxoFbJ4MGGv
+          mode: random
+          wave-color: "#ffffff"
+          background: full
