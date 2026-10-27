@@ -14,7 +14,7 @@ A Friday Night Funkin' Mod Directed by [Wellwoven](https://x.com/selloutstreame1
 [![Languages](https://skillicons.dev/icons?i=haxe,haxeflixel,cpp,rust,py,js,java)](https://skillicons.dev)
 ---
 [![Tools](https://skillicons.dev/icons?i=vscodium,ableton,godot)](https://skillicons.dev)
-
+---
 [![now playing](now-playing.svg)](https://music.youtube.com)
 
 </div>
