@@ -1,7 +1,10 @@
+# https://github.com/marketplace/actions/ytmusicdisplaywidget
+
 name: Update now-playing card
 on:
-  workflow_dispatch:   # trigger it manually from the Actions tab
+  schedule:
     - cron: '0 */6 * * *'   # every 6 hours — adjust to taste
+  workflow_dispatch:   # trigger it manually from the Actions tab
 
 jobs:
   update:
